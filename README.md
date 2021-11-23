@@ -1,4 +1,4 @@
-# SSOO-tarea01
+# SSOO-tarea03
 Tarea03 Curso de Sistemas Operativos
 
 Autor: *Joaquin Quitanilla Ramirez* </br>
