@@ -1,2 +1,9 @@
-# SSOO-tarea03
-Tarea 3 de la asignatura de sitemas operativos
+# SSOO-tarea01
+Tarea03 Curso de Sistemas Operativos
+
+Autor: *Joaquin Quitanilla Ramirez* </br>
+Correo: joaquin.quintanilla@alumnos.uv.cl </br>
+</br>
+Descripcion </br>
+
+Repositorio dedicado a resolver tarea 3 del ramo de sistemas operativo.</br>
